@@ -1,0 +1,35 @@
+.main-content {
+    padding: 20px;
+    border: 1px dashed #ccc;
+  }
+  
+  h2, h1, h3 {
+    margin: 0;
+  }
+  
+  .description {
+    margin: 10px 0;
+  }
+  
+  .highlight-window {
+    height: 200px;
+    background-color: #f0f0f0;
+    margin: 10px 0;
+  }
+  
+  .divider {
+    height: 1px;
+    background-color: #ccc;
+    margin: 10px 0;
+  }
+  
+  .purchase-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .price {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
